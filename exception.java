@@ -1,8 +1,8 @@
 // Write a java program for finally block.....
 
-package pack1;
+package Hyderabad;
 
-public class A {
+public class Exception {
     
     public static void main(String[] args) {
         
